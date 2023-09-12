@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
 int main() {
     double X, Y, Z;
@@ -26,4 +26,4 @@ int main() {
     printf("Em percentual: %d %%\n", perce);
 
     return 0;
-}*/
+}
